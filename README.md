@@ -34,6 +34,7 @@ The dataset contains restaurant order records from Chipotle.
   - It helps us to analysis which items where mostly ordered.
   - Chipotle operates over 3900 restuarants in US, Canada, UK, France, Germany and Kuwait with plans to expand in Mexico.
   - Digital Sales Account for 35.1% of chipotles food and beverage revenue in 2024.
+
 **Customer Insights**
   - Company has strong brand presence among young consumers with 88% brand awareness.
   - Chipotle target audience includes college educated Gen Z and Millennials who prioritize social and environmental issues.
